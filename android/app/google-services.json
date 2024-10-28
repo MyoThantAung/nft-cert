@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995642050836",
+    "project_id": "uitnftcert",
+    "storage_bucket": "uitnftcert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995642050836:android:85a531fc3a87b3be4c5a01",
+        "android_client_info": {
+          "package_name": "com.example.nft_certification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6pTHawQh4Lo1J-slMCiqsm7o3M4leGMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995642050836:android:d9fdf3cfb74e60d54c5a01",
+        "android_client_info": {
+          "package_name": "com.uit.nft_cert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6pTHawQh4Lo1J-slMCiqsm7o3M4leGMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
